@@ -1,0 +1,3 @@
+A arquitetura de softwares consiste na organização do projeto a ser entregue, sua documentação para os stakeholders, o desenho de como cada área se relaciona.
+Deve ser o primeiro estágio do projeto de novos softwares, pois é o que traz a visualização de como será de fato a operação no futuro. 
+É o elo crítico entre o projeto e a engenharia de requisitos, pois identifica os principais componentes estruturais de um sistema e os relacionamentos entre eles. O resultado do processo de projeto de arquitetura é um modelo de arquitetura que descreve como o sistema está organizado em um conjunto de componentes de comunicação.

@@ -1,0 +1,5 @@
+É um método para acelerar a entrega de um projeto e aumentar a produtividade do time, através de ferramentas de fracionamento do projeto, visualização, acompanhamento e desenvolvimento.
+Promove o trabalho em equipe, onde cada time fica responsável por uma parcela daquela grande entrega.
+Permite uma grande participação do cliente final no processo, o que permite uma customização do projeto ao longo de sua execução e planejamento.
+Tem os 12 princípios, a seguir, como sua base principal: valor, frequência, flexibilidade, união, motivação, comunicação, funcionalidade, sustentabilidade, revisão, simplicidade, organização, autoavaliação.
+Os mais utilizados são o Kanban e o Scrum.

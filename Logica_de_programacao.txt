@@ -1,0 +1,3 @@
+A lógica de programação é uma sequência de comandos necessários para se obter o resultado esperado.
+Na nossa rotina temos sequências lógicas que são respeitadas, como uma receita de bolo, por exemplo.
+A receita com a sequência lógica de ações para obter o bolo, é a lógica de programação, e os passos de como fazer são os algorítmos.

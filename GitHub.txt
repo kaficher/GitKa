@@ -1,0 +1,1 @@
+O Github é uma plataforma que permite a programadores hospedarem seus códigos e compartilharem entre si, gerando um histórico de alterações, possibilitando a colaboração entre eles, e muitas vezes funcionando até como um "LinkedIn" de programadores, já que outras pessoas podem acessar e analisar os códigos já criados e trabalhados por cada profissional.
